@@ -15,6 +15,7 @@
   
   background-color: lightgrey;
   display: grid;
+  color: black;
   }
   h1, h3{
       color: white;
@@ -58,6 +59,10 @@
   #tt{
       margin-left: 20%;
       margin-top: 20%;
+      
   }
      
+  #showTemperature, #showWeather, #showDayAndTime, #showPlace{
+      color: black;
+  }
     
